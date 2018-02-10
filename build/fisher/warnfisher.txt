@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, E:\PythonProject\download_fisher\fisher.py
+missing module named posix - imported by os, E:\PythonProject\download_fisher\fisher.py
+missing module named _posixsubprocess - imported by subprocess, E:\PythonProject\download_fisher\fisher.py
+missing module named org - imported by pickle, E:\PythonProject\download_fisher\fisher.py
+missing module named readline - imported by cmd, code, pdb, E:\PythonProject\download_fisher\fisher.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\PythonProject\download_fisher\fisher.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\PythonProject\download_fisher\fisher.py
+missing module named _winreg - imported by platform, E:\PythonProject\download_fisher\fisher.py
+missing module named java - imported by platform, E:\PythonProject\download_fisher\fisher.py
+missing module named 'java.lang' - imported by platform, E:\PythonProject\download_fisher\fisher.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\PythonProject\download_fisher\fisher.py
+missing module named termios - imported by tty, getpass, E:\PythonProject\download_fisher\fisher.py
+missing module named grp - imported by shutil, tarfile, E:\PythonProject\download_fisher\fisher.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, E:\PythonProject\download_fisher\fisher.py
+missing module named _dummy_threading - imported by dummy_threading, E:\PythonProject\download_fisher\fisher.py
+missing module named 'org.python' - imported by copy, E:\PythonProject\download_fisher\fisher.py, xml.sax
+missing module named _scproxy - imported by urllib.request
