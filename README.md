@@ -1,8 +1,8 @@
 # download_fisher
 ## My own download tool... the old version(download_tool) is writen by JAVA, this guy is writen by Python.
 
-**这个工具的功能很简陋。。。就是你给啥资源，他就下载啥。**<br/>
-**This tool is simple... It' s just download what you give in the form of url...**<br/>
+***这个工具的功能很简陋。。。就是你给啥资源，他就下载啥。***<br/>
+***This tool is simple... It' s just download what you give in the form of url...***<br/>
 
 生成了 .exe 可执行文件，方便在 windows 上执行；也准备了 .pyw ，方便在有 python 的环境下运行；还准备了 .py，方便在命令行模式下调用。。。<br/>
 I prepare a exe, a pyw, and a py... You can run exe on windows, run pyw on mac, and also run py on Linux...<br/>
